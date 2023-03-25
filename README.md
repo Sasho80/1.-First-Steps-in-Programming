@@ -6,3 +6,16 @@ Note: it is not allowed to previously calculate the value (for example with Wind
 
 02.Problem: Numbers from 1 to 20
 Write a C# console program that prints the numbers from 1 to 20 on separate lines on the console.
+
+Problem: Triangle of 55 Stars
+Write a C# console program that prints a triangle made of 55 stars on 10 lines:
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
