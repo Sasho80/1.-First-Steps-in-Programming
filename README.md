@@ -1,3 +1,8 @@
+01.Problem: Hello C++
+Let's create our first console program in Visual Studio. We will start the Visual Studio IDE, will create 
+a new console-based C++ project, will write a few lines of C++ code and will compile and run the 
+program. 
+
 02.Problem: Expression
 Write a console-based C# console program that calculates and prints the value of the following 
 numerical expression:
