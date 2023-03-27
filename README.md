@@ -40,7 +40,7 @@ square made out of N stars, like in the examples below.
 Sample Input and Output
 Input Output Input Output Input Output 
       ***          ****         *****
-3     * *     4   *  *     5    *   *
+3     * *     4    *  *     5   *   *
       ***          *  *         *   *
                    ****         *   *
                                 *****
